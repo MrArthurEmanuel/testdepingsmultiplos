@@ -1,0 +1,4 @@
+www.google.com
+8.8.8.8
+www.pudim.com.br
+1.1.1.1
